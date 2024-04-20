@@ -2,12 +2,14 @@
 
 ## Materials 
 
+
 ### Exam
 
 Exam Details:
 AWS Certified Cloud Practitioner Certification (Paid - $100)
 Exam Guide:
 AWS Certified Cloud Practitioner (CLF-C02) Exam Guide
+
 
 ### Udemy
 
@@ -17,6 +19,7 @@ https://www.udemy.com/course/aws-certified-cloud-practitioner-new/ (Paid - ₹44
 https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/ (Paid - ₹499)
 https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test/ (Paid - ₹529)
 https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-c/ (Paid - ₹499)
+
 
 ### Amazon’s Courses on the Exam
 
@@ -30,6 +33,7 @@ https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cl
 #### Question Set:
 https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english (Free)
 
-### YouTube Course : 
+
+### YouTube Course
 Updated CLF-C02 : https://youtu.be/NhDYbskXRgc?si=JRPX9y0y1t3WPu04 **(Refer to this for preparation)** (Free)
 Old CLF-C01 : https://www.youtube.com/watch?v=SOTamWNgDKc (Free)
